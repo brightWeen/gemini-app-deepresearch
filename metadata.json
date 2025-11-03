@@ -1,0 +1,6 @@
+{
+  "name": "DeepResearch - AI Agent Collaboration",
+  "description": "A multi-agent AI system that collaborates to research topics in depth. Provide a topic, and watch as a Planner, Researchers, and a Writer work together to generate a comprehensive report.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
